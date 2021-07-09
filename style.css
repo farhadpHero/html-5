@@ -3,7 +3,7 @@ table,th,td{
     text-align: left;
 }
 table{
-    border-collapse: collapse;
+    border-collapse: collapse; 
     width: 100%;
 }
 
